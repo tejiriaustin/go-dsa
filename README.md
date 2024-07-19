@@ -1,1 +1,3 @@
-# go-dsa
+# Go-DSA
+
+This codebase contains DSA's in golang
