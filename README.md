@@ -1,6 +1,6 @@
 # Go-DSA
 
-This codebase contains DSA's in golang
+This codebase contains DSA's in golang. The images found in this repo can be found on [AlgoMonster](https://algo.monster)
 
 [https://algo.monster/flowchart](https://algo.monster/flowchart)
 
