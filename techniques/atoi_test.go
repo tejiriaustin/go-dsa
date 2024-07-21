@@ -1,0 +1,5 @@
+package techniques
+
+func TestAtoi() {
+
+}
